@@ -1,6 +1,6 @@
 {
-  "name": "KHANX-AI",
-  "description": "Javascript WhatsApp bot made by Jᴀᴡᴀᴅ TᴇᴄʜX",
+  "name": "IRFAN_WAHGA",
+  "description": "Javascript WhatsApp bot made by IRFAN WAHGA",
   "logo": "https://files.catbox.moe/hzagwo.jpg",
   "keywords": ["bot"],
   "success_url": "/",
@@ -33,7 +33,7 @@
     "SUDO_NB": {
       "description": "Put sudo or owner number.",
       "required": false,
-      "value": "923146190772"
+      "value": "923261761538"
     },
 
     "ALIVE_IMG": {
@@ -45,7 +45,7 @@
     "ALIVE_MSG": {
       "description": "Put your alive msg here.",
       "required": false,
-      "value": "Zinda Houn Yar"
+      "value": "Hn hn chal rha hu "
     }   
   },
 
