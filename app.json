@@ -1,7 +1,7 @@
 {
   "name": "IRFAN_WAHGA",
   "description": "Javascript WhatsApp bot made by IRFAN WAHGA",
-  "logo": "https://files.catbox.moe/hzagwo.jpg",
+  "logo": "https://i.ibb.co/ByfMwD9/file-3775.jpg",
   "keywords": ["bot"],
   "success_url": "/",
 
@@ -39,7 +39,7 @@
     "ALIVE_IMG": {
       "description": "Put your alive img here.",
       "required": false,
-      "value": "https://files.catbox.moe/hzagwo.jpg"
+      "value": "https://i.ibb.co/ByfMwD9/file-3775.jpg"
     },
     
     "ALIVE_MSG": {
